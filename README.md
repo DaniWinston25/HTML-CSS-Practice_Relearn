@@ -1,6 +1,5 @@
 # HTML-CSS-Practice_Relearn
 Starting over and relearning the basics babe!
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
